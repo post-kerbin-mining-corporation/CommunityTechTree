@@ -12,55 +12,58 @@ Simply create an empty .cfg file to be packaged with your mod (call it anything 
 
 This assigns the part "panel-static01" to the Advanced Solar Tech (advSolarTech) node, and will only run in the presence of the Community Tech Tree.
 
-The following is a list of all the new nodes in the Community Tech tree, and the names by which they should be identified in the TechRequired field.
+The following is a list of all the new nodes in the Community Tech Tree, and the names by which they should be identified in the TechRequired field.
 
 Specialized Science Tech			specializedScienceTech
-Nuclear Power						nuclearPower
+Nuclear Power					nuclearPower
 Large Scale Nuclear Power			largeNuclearPower
 Nuclear Fuel Systems				nuclearFuelSystems
 High Energy Nuclear Power			advNuclearPower
-Nuclear Support Technologies		nuclearSupport
+Nuclear Support Technologies			nuclearSupport
 Improved Nuclear Propulsion			improvedNuclearPropulsion
-High Efficiency Nuclear Propulsion 	advNuclearPropulsion
-Fusion Rockets 						fusionRockets
-Gigantic Rocketry					giganticRocketry
-Colossal Rocketry					colossalRocketry
-Fusion Power						fusionPower
-Exotic Alloys						exoticAlloys
-Orbital Assembly					orbitalAssembly
-Advanced Aerospace Composites		advAerospaceComposites
-Experimental Aircraft Engines		expAircraftEngines
-Heavy Control						heavyControl
-Subsonic Flight						subsonicFlight
+High Efficiency Nuclear Propulsion		advNuclearPropulsion
+Fusion Rockets 					fusionRockets
+Gigantic Rocketry				giganticRocketry
+Colossal Rocketry				colossalRocketry
+Fusion Power					fusionPower
+Exotic Alloys					exoticAlloys
+Orbital Assembly				orbitalAssembly
+Advanced Aerospace Composites			advAerospaceComposites
+Experimental Aircraft Engines			expAircraftEngines
+Heavy Control					heavyControl
+Subsonic Flight					subsonicFlight
 Off-World Manufacturing				offworldManufacturing
-Orbital Surveys						orbitalSurveys
-Advanced Sensors					advSurveys
-Recycling							recycling
-Hydroponics							hydroponics
+Orbital Surveys					orbitalSurveys
+Advanced Sensors				advSurveys
+Recycling					recycling
+Hydroponics					hydroponics
 Long Term Habitation				longTermHabitation
 Resource Utilization				resourceUtilization
-Off-WorldMining						offworldMining
+Off-WorldMining					offworldMining
 Advanced Off-World Mining			advOffworldMining
 Resource Exploitation				resourceExploitation
 Self-Sufficient Outposts			selfSufficientOutposts
 Specialized Science Tech			specializedScienceTech
-Extended Duration Science Tech		longTermScienceTech
-Scientific Outposts					scientificOutposts
+Extended Duration Science Tech			longTermScienceTech
+Scientific Outposts				scientificOutposts
 Advanced Solar Technology			advSolarTech
-Cutting-Edge Solar Technology 		cuttingEdgeSolarTech			
-Advanced Photovoltaic Materials		advPVMaterials
-Electrical Systems					electricalSystems
-Advanced Ion Propulsion			advIonPropulsion
-Plasma Propulsion					plasmaPropulsion
+Cutting-Edge Solar Technolog 			cuttingEdgeSolarTech			
+Advanced Photovoltaic Materials			advPVMaterials
+Electrical Systems				electricalSystems
+Advanced Ion Propulsion				advIonPropulsion
+Plasma Propulsion				plasmaPropulsion
 Experimental Ion Propulsion			experimentalIonPropulsion
 Cutting-Edge Ion Propulsion			cuttingEdgeIonPropulsion
 Advanced Plasma Propulsion			advPlasmaPropulsion
-Exotic Reactions					exoticReactions
-High Energy Science					highEnergyScience
+Exotic Reactions				exoticReactions
+High Energy Science				highEnergyScience
 Orbital Megastructures				orbitalMegastructures
-Specialized Plasma Technologies		specializedPlasmaTech
-Power Transmission					powerTransmission
-Antimatter Power					antimatterPower
+Specialized Plasma Technologies			specializedPlasmaTech
+Power Transmission				powerTransmission
+Antimatter Power				antimatterPower
 Ultra High Energy Physics			ultraHighEnergyPhysics
 Enhanced Survivability				enhancedSurvivability
 Short Term Habitation				shortTermHabitation
+
+
+Happy researching!
