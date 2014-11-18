@@ -5,7 +5,7 @@ Info For Modders
 The best way to incorporate your mod into the Community Tech Tree is via noninvasive ModuleManager patches.
 Simply create an empty .cfg file to be packaged with your mod (call it anything you like, I suggest CTTPatch.cfg), and include entries as follows:
 
-@PART[panel-static01]:NEEDS[CommunityTechTree]
+@PART[panel-static01]:NEEDS[CommunityTechTree,TechManager]
 {
 	@TechRequired = advSolarTech
 }
