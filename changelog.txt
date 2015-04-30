@@ -1,3 +1,13 @@
+v2.0
+----
+- KSP 1.0 Update
+
+v1.1
+----
+- Updated Readme
+- Fixed Advanced Metalworks node ID
+- Made Enhanced Survivability HideIfEmpty
+
 v1.0
 ----
 - Intial release
