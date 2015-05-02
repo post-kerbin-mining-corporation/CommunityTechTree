@@ -2,68 +2,40 @@
 Info For Modders
 ================
 
-The best way to incorporate your mod into the Community Tech Tree is via noninvasive ModuleManager patches.
+Incorporate your mod into the Community Tech Tree is via noninvasive ModuleManager patches!
 Simply create an empty .cfg file to be packaged with your mod (call it anything you like, I suggest CTTPatch.cfg), and include entries as follows:
 
-@PART[panel-static01]:NEEDS[CommunityTechTree,TechManager]
+@PART[panel-static01]:NEEDS[CommunityTechTree]
 {
 	@TechRequired = advSolarTech
 }
 
 This assigns the part "panel-static01" to the Advanced Solar Tech (advSolarTech) node, and will only run in the presence of the Community Tech Tree.
 
+In addition, you need to provide a second ModuleManager patch (inside the same file) to unhide the tech nodes you wish to use, as well as any that are required to get to that node. 
+
+For example, if you wanted to place an engine in Colossal Rocketry, you would need to unhide Experimental Rocketry, Gigantic Rocketry AND Colossal Rocketry. This is done as follows:
+
+@TechTree:AFTER[CommunityTechTree]
+{
+	@RDNode:HAS[#id[experimentalRocketry]]
+	{
+		@hideEmpty = False
+	}
+	@RDNode:HAS[#id[giganticRocketry]]
+	{
+		@hideEmpty = False
+	}
+	@RDNode:HAS[#id[colossalRocketry]]
+	{
+		@hideEmpty = False
+	}
+}
+
+
 The following is a list of all the new nodes in the Community Tech Tree, and the names by which they should be identified in the TechRequired field.
 
-Specialized Science Tech			specializedScienceTech
-Nuclear Power					nuclearPower
-Large Scale Nuclear Power			largeNuclearPower
-Nuclear Fuel Systems				nuclearFuelSystems
-High Energy Nuclear Power			advNuclearPower
-Nuclear Support Technologies			nuclearSupport
-Improved Nuclear Propulsion			improvedNuclearPropulsion
-High Efficiency Nuclear Propulsion		advNuclearPropulsion
-Fusion Rockets 					fusionRockets
-Gigantic Rocketry				giganticRocketry
-Colossal Rocketry				colossalRocketry
-Fusion Power					fusionPower
-Exotic Alloys					exoticAlloys
-Orbital Assembly				orbitalAssembly
-Advanced Aerospace Composites			advAerospaceComposites
-Experimental Aircraft Engines			expAircraftEngines
-Heavy Control					heavyControl
-Subsonic Flight					subsonicFlight
-Off-World Manufacturing				offworldManufacturing
-Orbital Surveys					orbitalSurveys
-Advanced Sensors				advSurveys
-Recycling					recycling
-Hydroponics					hydroponics
-Long Term Habitation				longTermHabitation
-Resource Utilization				resourceUtilization
-Off-WorldMining					offworldMining
-Advanced Off-World Mining			advOffworldMining
-Resource Exploitation				resourceExploitation
-Self-Sufficient Outposts			selfSufficientOutposts
-Specialized Science Tech			specializedScienceTech
-Extended Duration Science Tech			longTermScienceTech
-Scientific Outposts				scientificOutposts
-Advanced Solar Technology			advSolarTech
-Cutting-Edge Solar Technolog 			cuttingEdgeSolarTech			
-Advanced Photovoltaic Materials			advPVMaterials
-Electrical Systems				electricalSystems
-Advanced Ion Propulsion				advIonPropulsion
-Plasma Propulsion				plasmaPropulsion
-Experimental Ion Propulsion			experimentalIonPropulsion
-Cutting-Edge Ion Propulsion			cuttingEdgeIonPropulsion
-Advanced Plasma Propulsion			advPlasmaPropulsion
-Exotic Reactions				exoticReactions
-High Energy Science				highEnergyScience
-Orbital Megastructures				orbitalMegastructures
-Specialized Plasma Technologies			specializedPlasmaTech
-Power Transmission				powerTransmission
-Antimatter Power				antimatterPower
-Ultra High Energy Physics			ultraHighEnergyPhysics
-Enhanced Survivability				enhancedSurvivability
-Short Term Habitation				shortTermHabitation
+
 
 
 Happy researching!
