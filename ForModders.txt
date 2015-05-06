@@ -12,25 +12,7 @@ Simply create an empty .cfg file to be packaged with your mod (call it anything 
 
 This assigns the part "panel-static01" to the Advanced Solar Tech (advSolarTech) node, and will only run in the presence of the Community Tech Tree.
 
-In addition, you need to provide a second ModuleManager patch (inside the same file) to unhide the tech nodes you wish to use, as well as any that are required to get to that node. 
 
-For example, if you wanted to place an engine in Colossal Rocketry, you would need to unhide Experimental Rocketry, Gigantic Rocketry AND Colossal Rocketry. This is done as follows:
-
-@TechTree:AFTER[CommunityTechTree]
-{
-	@RDNode:HAS[#id[experimentalRocketry]]
-	{
-		@hideEmpty = False
-	}
-	@RDNode:HAS[#id[giganticRocketry]]
-	{
-		@hideEmpty = False
-	}
-	@RDNode:HAS[#id[colossalRocketry]]
-	{
-		@hideEmpty = False
-	}
-}
 
 The following is a list of all the new nodes in the Community Tech Tree, and the names by which they should be identified in the TechRequired field.
 
@@ -61,6 +43,7 @@ subsonicFlight			 		Subsonic Flight
 specializedFlightSystems		Specialized Flight Systems
 expAircraftEngines				Experimental Aircraft Engines
 aerospaceComposites				Aerospace Composites
+enhancedSurvivability			Enhanced Survivability
 simpleCommandModules			Simple Command Modules
 heavyCommandModules				Heavy Command Modules
 advOffworldMining				Advanced Off-World Mining

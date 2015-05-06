@@ -1,7 +1,15 @@
+v2.1
+----
+- Entire tree visible by default now
+- Fixed cost of Advanced Solar Tech
+- Fixed arrow direction of Specialized Science
+- Return of Enhanced Survivability
+
 v2.0
 ----
 - KSP 1.0 Update
-- Redo of entire tree
+- No longer requires TechManager, just MM 2.6.2+
+- Redo of entire tree structure
 
 v1.1
 ----
