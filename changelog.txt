@@ -1,9 +1,14 @@
+v2.2
+----
+- KSP 1.0.5
+
 v2.1
 ----
 - Entire tree visible by default now
 - Fixed cost of Advanced Solar Tech
 - Fixed arrow direction of Specialized Science
 - Return of Enhanced Survivability
+- Renamed Offworld Manufacturing to Offworld Robotics
 
 v2.0
 ----
