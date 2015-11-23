@@ -1,5 +1,5 @@
 ========================
-COMMUNITY TECH TREE v2.1
+COMMUNITY TECH TREE v2.2
 ========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.

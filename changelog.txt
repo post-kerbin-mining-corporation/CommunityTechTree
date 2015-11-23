@@ -1,6 +1,12 @@
 v2.2
 ----
 - KSP 1.0.5
+- Added Specialized Command Modules technology
+- Added Efficient Flight Systems technology
+- Added Experimental Nuclear Propulsion technology
+- Added Exotic Nuclear Propulsion technology
+- Added Advanced Aerospace Engineering technology
+- Adde Unified Field Theory technology
 
 v2.1
 ----
