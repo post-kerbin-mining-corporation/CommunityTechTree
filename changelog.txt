@@ -1,9 +1,20 @@
+v2.2
+----
+- KSP 1.0.5
+- Added Specialized Command Modules technology
+- Added Efficient Flight Systems technology
+- Added Experimental Nuclear Propulsion technology
+- Added Exotic Nuclear Propulsion technology
+- Added Advanced Aerospace Engineering technology
+- Adde Unified Field Theory technology
+
 v2.1
 ----
 - Entire tree visible by default now
 - Fixed cost of Advanced Solar Tech
 - Fixed arrow direction of Specialized Science
 - Return of Enhanced Survivability
+- Renamed Offworld Manufacturing to Offworld Robotics
 
 v2.0
 ----

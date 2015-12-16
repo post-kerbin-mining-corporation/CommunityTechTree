@@ -24,9 +24,12 @@ fusionPower						Fusion Power
 advFusionReactions				Advanced Fusion Reactions
 exoticReactions					Exotic Fusion Reactions
 antimatterPower					Antimatter Power
+unifiedFieldTheory				Unified Field Theory
 ultraHighEnergyPhysics			Ultra High Energy Physics
 improvedNuclearPropulsion		Improved Nuclear Propulsion
 advNuclearPropulsion			High Efficiency Nuclear Propulsion
+expNuclearPropulsion			Experimental Nuclear Propulsion
+exoticNuclearPropulsion			Exotic Nuclear Propulsion
 fusionRockets					Fusion Rockets
 experimentalRocketry			Experimental Rocketry
 giganticRocketry				Gigantic Rocketry
@@ -34,18 +37,21 @@ colossalRocketry				Colossal Rocketry
 specializedFuelStorage			Specialized Fuel Storage
 exoticFuelStorage				Exotic Fuel Storage
 exoticAlloys					Exotic Alloys
-offworldManufacturing			Off-World Manufacturing
+offworldManufacturing			Off-World Robotics
 orbitalMegastructures			Orbital Megastructures
 orbitalAssembly					Orbital Assembly
 advActuators			 		Advanced Actuators
 experimentalActuators			Experimental Actuators
 subsonicFlight			 		Subsonic Flight
+efficientFlightSystems	 		Efficient Flight Systems
 specializedFlightSystems		Specialized Flight Systems
 expAircraftEngines				Experimental Aircraft Engines
 aerospaceComposites				Aerospace Composites
+advAerospaceEngineering			Advanced Aerospace Engineering
 enhancedSurvivability			Enhanced Survivability
 simpleCommandModules			Simple Command Modules
 heavyCommandModules				Heavy Command Modules
+specializedCommandModules		Specialized Command Modules
 advOffworldMining				Advanced Off-World Mining
 resourceExploitation			Resource Exploitation
 specializedScienceTech			Specialized Science Tech
@@ -73,6 +79,7 @@ hydroponics						Hydroponics
 shortTermHabitation				Short Term Habitation
 longTermHabitation				Long Term Habitation
 colonization					Colonization
+advColonization					Advanced Colonization
 storageTech						Storage Technology
 logistics						Logistics
 advLogistics					Advanced Logistics
