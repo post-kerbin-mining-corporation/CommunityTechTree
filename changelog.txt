@@ -1,3 +1,9 @@
+v2.4
+----
+- KSP 1.1 versions
+- Adjusted some node connections and prerequisites from community input
+- Fixed node cost of Exotic Nuclear Propulsion
+
 v2.3
 ----
 - Fixed some messed up node positions
