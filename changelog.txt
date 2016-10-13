@@ -5,6 +5,8 @@ v3.0
 - Added Experimental Electrical Systems [Cost 4000, Electrical Branch]
 - Added Exotic Radiators [Cost 4000, Heat Management Branch]
 - Added Applied High Energy Physics [Cost 4000, Science Branch]
+- Subsonic Flight was moved back one tier, now depends on Aviation
+- Efficient Flight Systems was moved back one tier
 - Microwave Power now depends on Advanced Photovoltaic Materials instead of Advanced Solar Technology
 - Ultra High Energy physics now depends on Applied High Energy Physics instead of High Energy Science
 - Added new icons for Advanced Aerospace Engineering, Gigantic Rocketry, Advanced Fusion Reactions,
@@ -12,7 +14,8 @@ High Efficiency Nuclear Propulsion, Aerospace Composites, High Energy Nuclear Po
 Improved Nuclear Power, Colossal Rocketry, Improved Nuclear Propulsion, Efficient Flight, Nuclear Fuel Systems,
 Exotic Alloys, Nuclear Power, Exotic Fuel Storage, Orbital Assembly, Exotic Fusion Reactions,
 Orbital Megastructures, Exotic Nuclear Propulsion, Specialized Flight, Experimental Nuclear Propulsion,
-Specialized Fuel Storage, Fusion Power, Subsonic Flight, Fusion Rockets, Unified Field Theory
+Specialized Fuel Storage, Fusion Power, Subsonic Flight, Fusion Rockets, Unified Field Theory,
+Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules
 
 v2.4
 ----
