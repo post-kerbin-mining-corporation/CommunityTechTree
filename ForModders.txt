@@ -63,10 +63,10 @@ mechatronics					Mechatronics
 artificialIntelligence			Artificial Intelligence
 advIonPropulsion				Advanced Ion Propulsion
 plasmaPropulsion				Plasma Propulsion
-advEMSystems					Advanced Electromagnetic Systems
-specializedPlasmaGeneration		Specialized Plasma Generation
-advGriddedThrusters				Advanced Gridded Thrusters
-expGriddedThrusters				Experimental Gridded Thrusters
+advEMSystems					Advanced Plasma Propulsion
+specializedPlasmaGeneration		Specialized Plasma Propulsion
+advGriddedThrusters				Advanced Electrostatic Thrusters
+expGriddedThrusters				Experimental Electrostatic Thrusters
 advSolarTech					Advanced Solar Technology
 advPVMaterials					Advanced Photovoltaic Materials
 cuttingEdgeSolarTech			Cutting-Edge Solar Technology

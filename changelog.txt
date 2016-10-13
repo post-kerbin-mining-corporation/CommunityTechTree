@@ -7,6 +7,10 @@ v3.0
 - Added Applied High Energy Physics [Cost 4000, Science Branch]
 - Subsonic Flight was moved back one tier, now depends on Aviation
 - Efficient Flight Systems was moved back one tier
+- Renamed Advanced Gridded Thrusters to Advanced Electrostatic Thrusters
+- Renamed Experimental Gridded Thrusters to Experimental Electrostatic Thrusters
+- Renamed Advanced EM Systems to Advanced Plasma Propulsion
+- Renamed Specialized Plasma Generation to Specialized Plasma Propulsion
 - Microwave Power now depends on Advanced Photovoltaic Materials instead of Advanced Solar Technology
 - Ultra High Energy physics now depends on Applied High Energy Physics instead of High Energy Science
 - Added new icons for Advanced Aerospace Engineering, Gigantic Rocketry, Advanced Fusion Reactions,
