@@ -58,6 +58,7 @@ specializedScienceTech			Specialized Science Tech
 longTermScienceTech				Long Term Science Tech
 scientificOutposts				Scientific Outposts
 highEnergyScience				High Energy Science
+appliedHighEnergyPhysics	Applied High Energy Physics
 mechatronics					Mechatronics
 artificialIntelligence			Artificial Intelligence
 advIonPropulsion				Advanced Ion Propulsion
@@ -70,10 +71,13 @@ advSolarTech					Advanced Solar Technology
 advPVMaterials					Advanced Photovoltaic Materials
 cuttingEdgeSolarTech			Cutting-Edge Solar Technology
 highTechElectricalSystems		High Tech Electrical Systems
+highPowerElectricalSystems High Power Electrical Systems
+experimentalElectricalSystems Experimental Electrical Systems
 microwavePowerTransmission		Microwave Power Transmission
 heatManagementSystems			Heat Management Systems
 advHeatManagement				Advanced Heat Management
 specializedRadiators			Specialized Radiators
+exoticRadiators Exotic Radiators
 recycling						Recycling
 hydroponics						Hydroponics
 shortTermHabitation				Short Term Habitation
