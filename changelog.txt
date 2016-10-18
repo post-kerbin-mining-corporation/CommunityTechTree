@@ -19,7 +19,8 @@ Improved Nuclear Power, Colossal Rocketry, Improved Nuclear Propulsion, Efficien
 Exotic Alloys, Nuclear Power, Exotic Fuel Storage, Orbital Assembly, Exotic Fusion Reactions,
 Orbital Megastructures, Exotic Nuclear Propulsion, Specialized Flight, Experimental Nuclear Propulsion,
 Specialized Fuel Storage, Fusion Power, Subsonic Flight, Fusion Rockets, Unified Field Theory,
-Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules
+Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules,
+Advanced Actuators, Experimental Actuators
 
 v2.4
 ----
