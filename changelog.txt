@@ -13,14 +13,21 @@ v3.0
 - Renamed Specialized Plasma Generation to Specialized Plasma Propulsion
 - Microwave Power now depends on Advanced Photovoltaic Materials instead of Advanced Solar Technology
 - Ultra High Energy physics now depends on Applied High Energy Physics instead of High Energy Science
-- Added new icons for Advanced Aerospace Engineering, Gigantic Rocketry, Advanced Fusion Reactions,
-High Efficiency Nuclear Propulsion, Aerospace Composites, High Energy Nuclear Power, Antimatter Power,
-Improved Nuclear Power, Colossal Rocketry, Improved Nuclear Propulsion, Efficient Flight, Nuclear Fuel Systems,
-Exotic Alloys, Nuclear Power, Exotic Fuel Storage, Orbital Assembly, Exotic Fusion Reactions,
-Orbital Megastructures, Exotic Nuclear Propulsion, Specialized Flight, Experimental Nuclear Propulsion,
-Specialized Fuel Storage, Fusion Power, Subsonic Flight, Fusion Rockets, Unified Field Theory,
-Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules,
-Advanced Actuators, Experimental Actuators
+- Added new icons for the following technologies:
+-- Gigantic Rocketry, Colossal Rocketry, Specialized Fuel Storage, Exotic Fuel Storage
+-- Nuclear Power, Improved Nuclear Power, High Energy Nuclear Power,  Nuclear Fuel Systems
+-- Exotic Alloys, Orbital Assembly, Orbital Megastructures
+-- Improved Nuclear Propulsion, High Efficiency Nuclear Propulsion, Experimental Nuclear Propulsion, Exotic Nuclear Propulsion
+-- Fusion Power, Fusion Rockets, Advanced Fusion Reactions, Exotic Fusion Reactions, Antimatter Power, Unified Field Theory
+-- Subsonic Flight, Efficient Flight, Specialized Flight, Advanced Aerospace Engineering, Aerospace Composites
+-- Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules
+-- Advanced Ion Propulsion, Advanced Electrostatic Propulsion, Experimental Electrostatic Propulsion
+-- Plasma Propulsion, Advanced Plasma Propulsion, Specialized Plasma Propulsion
+-- Advanced Actuators, Experimental Actuators
+-- Heat Management, Advanced Heat Management, Specialized Radiators, Exotic Radiators
+-- Storage Tech, Logistics, Advanced Logistics
+-- Recycling, Hydroponics
+-- Specialized Science, Long-Term Science, Science Outposts
 
 v2.4
 ----
