@@ -19,7 +19,7 @@ v3.0
 -- Exotic Alloys, Orbital Assembly, Orbital Megastructures
 -- Improved Nuclear Propulsion, High Efficiency Nuclear Propulsion, Experimental Nuclear Propulsion, Exotic Nuclear Propulsion
 -- Fusion Power, Fusion Rockets, Advanced Fusion Reactions, Exotic Fusion Reactions, Antimatter Power, Unified Field Theory
--- Subsonic Flight, Efficient Flight, Specialized Flight, Advanced Aerospace Engineering, Aerospace Composites
+-- Subsonic Flight, Efficient Flight, Specialized Flight, Advanced Aerospace Engineering, Aerospace Composites, Experimental Aircraft Engines
 -- Simple Command Modules, Enhanced Survivability, Heavy Command Modules, Specialized Command Modules
 -- Advanced Ion Propulsion, Advanced Electrostatic Propulsion, Experimental Electrostatic Propulsion
 -- Plasma Propulsion, Advanced Plasma Propulsion, Specialized Plasma Propulsion
