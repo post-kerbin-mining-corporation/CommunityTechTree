@@ -8,6 +8,7 @@ v3.0
 - Added Applied High Energy Physics [Cost 4000, Science Branch]
 - Subsonic Flight was moved back one tier, now depends on Aviation
 - Efficient Flight Systems was moved back one tier
+- Experimental Rocketry now has another prerequisite
 - Renamed Advanced Gridded Thrusters to Advanced Electrostatic Thrusters
 - Renamed Experimental Gridded Thrusters to Experimental Electrostatic Thrusters
 - Renamed Advanced EM Systems to Advanced Plasma Propulsion
