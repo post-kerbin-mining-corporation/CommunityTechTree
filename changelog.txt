@@ -1,6 +1,7 @@
 v3.0
 ----
 - Updated for KSP 1.2
+- Relocated and rearranged several techs for increased clarity
 - Added High Power Electrical Systems [Cost 2250, Electrical Branch]
 - Added Experimental Electrical Systems [Cost 4000, Electrical Branch]
 - Added Exotic Radiators [Cost 4000, Heat Management Branch]

@@ -1,0 +1,18 @@
+{
+    "NAME":"CommunityTechTree",
+    "URL":"https://github.com/ChrisAdderley/CryoEngines/blob/master/GameData/CryoEngines/Versioning/CryoEngines.version",
+    "DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/117766",
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":3,
+        "PATCH":0,
+        "BUILD":0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":2,
+        "PATCH":0
+    }
+}
