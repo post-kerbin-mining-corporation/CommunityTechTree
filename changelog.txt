@@ -1,4 +1,11 @@
-v3.0
+﻿v3.0.1
+------
+
+- Fixed flickering arrows
+
+
+
+v3.0.0
 ----
 - Updated for KSP 1.2
 - Relocated and rearranged several techs for increased clarity
