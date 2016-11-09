@@ -1,9 +1,16 @@
-﻿v3.0.1
+v3.0.2
 ------
+- Marked for KSP 1.2.1
+- Fixed some incorrect tech node costs:
+-- Colonization: 1000 to 2250
+-- Advanced Colonization: 2250 to 4000
+-- Orbital Assembly: 1500 to 1000
+-- Orbital Megastructures: 2250 to 1500
+-- Advanced Aerospace Engineering: 2250 to 1500
 
+v3.0.1
+------
 - Fixed flickering arrows
-
-
 
 v3.0.0
 ----
