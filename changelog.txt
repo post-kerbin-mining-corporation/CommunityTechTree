@@ -1,3 +1,7 @@
+v3.0.3
+------
+- Marked for KSP 1.2.2
+
 v3.0.2
 ------
 - Marked for KSP 1.2.1
