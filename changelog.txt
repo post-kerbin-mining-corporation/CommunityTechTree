@@ -1,6 +1,7 @@
 v3.0.3
 ------
 - Marked for KSP 1.2.2
+- Added Exotic Solar Technology
 
 v3.0.2
 ------

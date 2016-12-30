@@ -70,6 +70,7 @@ expGriddedThrusters				Experimental Electrostatic Thrusters
 advSolarTech					Advanced Solar Technology
 advPVMaterials					Advanced Photovoltaic Materials
 cuttingEdgeSolarTech			Cutting-Edge Solar Technology
+exoticSolarTech				Exotic Solar Technology
 highTechElectricalSystems		High Tech Electrical Systems
 highPowerElectricalSystems High Power Electrical Systems
 experimentalElectricalSystems Experimental Electrical Systems
