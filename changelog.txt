@@ -1,6 +1,10 @@
-v3.0.4
+v3.1
 ------
-- Added new icons for Advanced Solar Technology, Cuttin-Edge Solar Technology, Advanced PV Materials, Exotic Solar Technology
+- Added Exotic Plasma Propulsion [Cost 10000, Electric Propulsion Branch]
+- Added Reactions [Cost 10000, Nuclear Tech Branch]
+- Added Exotic Electrical Systems [Cost 10000, Electrical Branch]
+- Added [Cost 2250, Fuel Storage Branch]
+- Added new icons for Advanced Solar Technology, Cutting-Edge Solar Technology, Advanced PV Materials, Exotic Solar Technology
 
 v3.0.3
 ------
