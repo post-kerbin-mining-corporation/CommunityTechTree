@@ -1,10 +1,12 @@
 v3.1
 ------
+- Marked for KSP 1.3
 - Added Exotic Plasma Propulsion [Cost 10000, Electric Propulsion Branch]
-- Added Reactions [Cost 10000, Nuclear Tech Branch]
+- Added High Density Fusion Reactions [Cost 10000, Nuclear Tech Branch]
 - Added Exotic Electrical Systems [Cost 10000, Electrical Branch]
-- Added [Cost 2250, Fuel Storage Branch]
-- Added new icons for Advanced Solar Technology, Cutting-Edge Solar Technology, Advanced PV Materials, Exotic Solar Technology
+- Added Extreme Fuel Storage [Cost 2250, Fuel Storage Branch]
+- Added Experimental Nuclear Power [Cost 1500, Nuclear Tech Branch] and Exotic Nuclear Power [Cost 2250, Nuclear Tech Branch]
+- Added new icons for Advanced Solar Technology, Cutting-Edge Solar Technology, Advanced PV Materials, Exotic Solar Technology, High Tech Electrical Systems, High Power Electrical Systems, Experimental Electrical Systems, Exotic Electrical Systems, Microwave Power
 
 v3.0.3
 ------

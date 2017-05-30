@@ -20,9 +20,11 @@ nuclearPower					Nuclear Power
 nuclearFuelSystems				Nuclear Fuel Systems
 largeNuclearPower				Improved Nuclear Power
 advNuclearPower					High Energy Nuclear Power
+expNuclearPower					Experimental Nuclear Power
+exoticNuclearPower	Exotic Nuclear Power
 fusionPower						Fusion Power
 advFusionReactions				Advanced Fusion Reactions
-quantumReactions
+quantumReactions			High Density Fusion Reactions
 exoticReactions					Exotic Fusion Reactions
 antimatterPower					Antimatter Power
 unifiedFieldTheory				Unified Field Theory
