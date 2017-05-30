@@ -37,6 +37,7 @@ giganticRocketry				Gigantic Rocketry
 colossalRocketry				Colossal Rocketry
 specializedFuelStorage			Specialized Fuel Storage
 exoticFuelStorage				Exotic Fuel Storage
+extremeFuelStorage		Extreme Fuel Storage
 exoticAlloys					Exotic Alloys
 offworldManufacturing			Off-World Robotics
 orbitalMegastructures			Orbital Megastructures
