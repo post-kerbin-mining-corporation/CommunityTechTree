@@ -2,6 +2,7 @@ v3.1
 ------
 - Marked for KSP 1.3
 - Fixed some spelling errors
+- Fixed icon of Orbital Megastructures
 - Fixed cost of Specialized Command Modules (was 300, should be 550)
 - Added Exotic Plasma Propulsion [Cost 10000, Electric Propulsion Branch]
 - Added High Density Fusion Reactions [Cost 10000, Nuclear Tech Branch]
