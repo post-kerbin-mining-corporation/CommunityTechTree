@@ -20,8 +20,11 @@ nuclearPower					Nuclear Power
 nuclearFuelSystems				Nuclear Fuel Systems
 largeNuclearPower				Improved Nuclear Power
 advNuclearPower					High Energy Nuclear Power
+expNuclearPower					Experimental Nuclear Power
+exoticNuclearPower	Exotic Nuclear Power
 fusionPower						Fusion Power
 advFusionReactions				Advanced Fusion Reactions
+quantumReactions			High Density Fusion Reactions
 exoticReactions					Exotic Fusion Reactions
 antimatterPower					Antimatter Power
 unifiedFieldTheory				Unified Field Theory
@@ -36,6 +39,7 @@ giganticRocketry				Gigantic Rocketry
 colossalRocketry				Colossal Rocketry
 specializedFuelStorage			Specialized Fuel Storage
 exoticFuelStorage				Exotic Fuel Storage
+extremeFuelStorage		Extreme Fuel Storage
 exoticAlloys					Exotic Alloys
 offworldManufacturing			Off-World Robotics
 orbitalMegastructures			Orbital Megastructures
@@ -65,14 +69,17 @@ advIonPropulsion				Advanced Ion Propulsion
 plasmaPropulsion				Plasma Propulsion
 advEMSystems					Advanced Plasma Propulsion
 specializedPlasmaGeneration		Specialized Plasma Propulsion
+exoticPlasmaPropulsion		Exotic Plasma Propulsion
 advGriddedThrusters				Advanced Electrostatic Thrusters
 expGriddedThrusters				Experimental Electrostatic Thrusters
 advSolarTech					Advanced Solar Technology
 advPVMaterials					Advanced Photovoltaic Materials
 cuttingEdgeSolarTech			Cutting-Edge Solar Technology
+exoticSolarTech				Exotic Solar Technology
 highTechElectricalSystems		High Tech Electrical Systems
 highPowerElectricalSystems High Power Electrical Systems
 experimentalElectricalSystems Experimental Electrical Systems
+exoticElectricalSystems		Exotic Electrical Systems
 microwavePowerTransmission		Microwave Power Transmission
 heatManagementSystems			Heat Management Systems
 advHeatManagement				Advanced Heat Management
