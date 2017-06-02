@@ -1,7 +1,9 @@
-v3.1
+v3.1.0
 ------
 - Marked for KSP 1.3
-- Fixed some spelling errors
+- Converted all strings to localization system
+- Updated MiniAVC to 1.0.3.3
+- Fixed some spelling errors in tech nodes
 - Fixed icon of Orbital Megastructures
 - Fixed cost of Specialized Command Modules (was 300, should be 550)
 - Added Exotic Plasma Propulsion [Cost 10000, Electric Propulsion Branch]
