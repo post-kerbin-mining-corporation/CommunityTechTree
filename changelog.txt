@@ -1,6 +1,7 @@
 v3.1.2
 ------
-- Added Spanish translation courtesy of fititales
+- Added Spanish translation courtesy of fitiales
+- Added Russian translation courtesy of vladmir_v
 
 v3.1.1
 ------
