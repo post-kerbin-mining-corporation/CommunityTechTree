@@ -1,5 +1,6 @@
 v3.1.2
 ------
+- Changed Experimental Nuclear Propulsion to require both Experimental Rocketry and High Efficiency Nuclear Propulsion
 - Added Spanish translation courtesy of fitiales
 - Added Russian translation courtesy of vladmir_v
 
