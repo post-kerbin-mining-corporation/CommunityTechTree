@@ -1,3 +1,10 @@
+v3.2.0
+------
+- Added Heavy Landers [Cost 1500, Command Modules branch]
+- Added Heavy Command Centers [Cost 1500, Command Modules branch]
+- Added Specialized Command Centers [Cost 1000, Command Modules branch]
+- Added Specialized Landers [Cost 1000, Command Modules branch]
+
 v3.1.2
 ------
 - Changed Experimental Nuclear Propulsion to require both Experimental Rocketry and High Efficiency Nuclear Propulsion

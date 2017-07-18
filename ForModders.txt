@@ -56,6 +56,10 @@ enhancedSurvivability			Enhanced Survivability
 simpleCommandModules			Simple Command Modules
 heavyCommandModules				Heavy Command Modules
 specializedCommandModules		Specialized Command Modules
+heavyCommandCenters 		Heavy Command Centers
+heavyLanders Heavy 			Landers
+specializedCommandCenters		Specialized Command Centers
+specializedLanders 		Specialized Landers
 advOffworldMining				Advanced Off-World Mining
 resourceExploitation			Resource Exploitation
 specializedScienceTech			Specialized Science Tech
