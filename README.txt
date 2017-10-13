@@ -1,5 +1,5 @@
 ==========================
-COMMUNITY TECH TREE v3.1.0
+COMMUNITY TECH TREE v3.2.1
 ==========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.
@@ -23,6 +23,15 @@ KSP-MINI-AVC
 This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
 If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+
+============
+LOCALIZATION
+============
+
+This mod includes localization support, and includes translations for
+- Spanish (KSP forum user fitiales)
+- Russian (KSP forum user vladmir_v)
+Please note that translations are community-sourced and that I don't actually speak anything but French and English, so can't really verify these. If there are issues, please contact the author of the translation.
 
 =========
 LICENSING

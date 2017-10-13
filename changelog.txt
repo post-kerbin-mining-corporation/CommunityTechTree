@@ -1,3 +1,25 @@
+v3.2.1
+------
+- KSP 1.3.1
+- Fixed node location of Experimental Motors
+
+v3.2.0
+------
+- Added Heavy Landers [Cost 1500, Command Modules branch]
+- Added Heavy Command Centers [Cost 1500, Command Modules branch]
+- Added Specialized Command Centers [Cost 1000, Command Modules branch]
+- Added Specialized Landers [Cost 1000, Command Modules branch]
+
+v3.1.2
+------
+- Changed Experimental Nuclear Propulsion to require both Experimental Rocketry and High Efficiency Nuclear Propulsion
+- Added Spanish translation courtesy of fitiales
+- Added Russian translation courtesy of vladmir_v
+
+v3.1.1
+------
+- Fixed localization error for Aerospace Composites, Enhanced Survivability
+
 v3.1.0
 ------
 - Marked for KSP 1.3
