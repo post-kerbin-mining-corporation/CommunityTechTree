@@ -31,6 +31,7 @@ LOCALIZATION
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - Russian (KSP forum user vladmir_v)
+- Simplified Chinese (Iso-Polaris)
 Please note that translations are community-sourced and that I don't actually speak anything but French and English, so can't really verify these. If there are issues, please contact the author of the translation.
 
 =========
