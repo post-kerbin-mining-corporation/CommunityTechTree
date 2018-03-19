@@ -1,10 +1,10 @@
 ==========================
-COMMUNITY TECH TREE v3.2.1
+COMMUNITY TECH TREE v3.3.0
 ==========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.
 
-Forum thread: http://forum.kerbalspaceprogram.com/threads/98409
+Forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/90530-131-community-tech-tree-july-26th-new-techs/
 
 ============
 INSTALLATION
@@ -12,7 +12,7 @@ INSTALLATION
 
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, do so.
 
-This mod is only a tech tree! It requires ModuleManager 2.8.0 or higher to function.
+This mod is only a tech tree! It requires ModuleManager to function.
 
 It also requires mods to support it for their parts to be added. Modders, see the included ForModders.txt file for how to support the Community Tech Tree with your mod.
 
