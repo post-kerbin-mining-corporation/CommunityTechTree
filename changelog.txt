@@ -1,3 +1,8 @@
+v3.3.2
+------
+- KSP 1.4.3
+- Added Italian translation courtesy of Simog
+
 v3.3.1
 ------
 - KSP 1.4.2

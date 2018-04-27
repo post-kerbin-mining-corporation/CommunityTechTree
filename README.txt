@@ -1,5 +1,5 @@
 ==========================
-COMMUNITY TECH TREE v3.3.1
+COMMUNITY TECH TREE v3.3.2
 ==========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.
@@ -32,6 +32,7 @@ This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - Russian (KSP forum user vladmir_v)
 - Simplified Chinese (Iso-Polaris and EthanWang706)
+- Italian (KSP forum user Simog)
 Please note that translations are community-sourced and that I don't actually speak anything but French and English, so can't really verify these. If there are issues, please contact the author of the translation.
 
 =========
