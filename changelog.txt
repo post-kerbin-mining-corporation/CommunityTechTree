@@ -2,6 +2,7 @@ v3.3.2
 ------
 - KSP 1.4.3
 - Added Italian translation courtesy of Simog
+- Modified the structure of the Aero branches to reduce arrow overlap
 
 v3.3.1
 ------

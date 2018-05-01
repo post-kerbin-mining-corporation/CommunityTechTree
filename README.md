@@ -1,5 +1,5 @@
 # The Kerbal Space Program Community Tech Tree
-### Last Updated April 7, 2018
+### Last Updated April 30, 2018
 
 This is a community-sourced tech tree designed to support as many mods as possible and extend the KSP technology experience without affecting the way stock is laid out.
 
@@ -13,7 +13,7 @@ Please see the KSP [Forums thread](https://forum.kerbalspaceprogram.com/index.ph
 
 I welcome contributions and improvements to the repository. New tech nodes and changes to the existing structure however must go through a consultation process on the KSP [Forums thread](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-131-community-tech-tree-july-26th-new-techs/), so
 
-Please target any pull requests to the dev branch.
+Please target any pull requests to the `dev` branch.
 
 ## Installation
 
