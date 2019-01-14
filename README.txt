@@ -1,5 +1,5 @@
 ==========================
-COMMUNITY TECH TREE v3.3.4
+COMMUNITY TECH TREE v3.3.5
 ==========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.
@@ -20,9 +20,7 @@ It also requires mods to support it for their parts to be added. Modders, see th
 KSP-MINI-AVC
 ============
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
-For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+This mod is compatible with KSP-AVC version checking. For a comprehensive version checking experience, please download the appropriate plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 ============
 LOCALIZATION
