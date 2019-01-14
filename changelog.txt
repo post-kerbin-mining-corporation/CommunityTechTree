@@ -1,3 +1,21 @@
+v3.3.5
+------
+- KSP 1.6.x
+
+v3.3.4
+------
+- Removed MiniAVC from distribution
+
+v3.3.3
+------
+- KSP 1.5.0
+
+v3.3.2
+------
+- KSP 1.4.3
+- Added Italian translation courtesy of Simog
+- Modified the structure of the Aero branches to reduce arrow overlap
+
 v3.3.1
 ------
 - KSP 1.4.2
