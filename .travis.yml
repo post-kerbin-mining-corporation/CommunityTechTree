@@ -2,7 +2,7 @@ language: python
 python:
   - 3.6
 install:
-  - pip install awscli boto3 requests
+  - pip install awscli boto3 requests requests_toolbelt
 branches:
   only:
     - master
@@ -25,6 +25,16 @@ before_deploy:
       git push origin $VERSION;
     fi
 deploy:
+  - provider: script
+    script: python build_scripts/deploy.py --curse
+    skip_cleanup: true
+    on:
+      condition: $TRAVIS_BRANCH = master
+  - provider: script
+    script: python build_scripts/deploy.py --spacedock
+    skip_cleanup: true
+    on:
+      condition: $TRAVIS_BRANCH = master
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY

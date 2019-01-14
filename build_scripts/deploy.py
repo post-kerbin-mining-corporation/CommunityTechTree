@@ -25,8 +25,8 @@ def deploy(spacedock, curse):
     print(f"Deploying {build_data['mod_name']} version {get_version(version_data)}\n=================")
     print(f"Changes:\n{changelog}")
 
-    print(f"Targets: {'SpaceDock, ' if spacedock else ''}{'Curse' if curse else ''}")
-    zipfile = os.path.join("deploy", f"{build_data['mod_name']}_{get_version(version_data)}.zip")
+    print(f"Targets: {'SpaceDock ' if spacedock else ''}{'Curse' if curse else ''}")
+    zipfile = os.path.join("deploy", f"{build_data['mod_name']}_" + "{MAJOR}_{MINOR}_{PATCH}.zip".format(**version_data["VERSION"]))
     print(f"> Deploying file {zipfile}")
     if spacedock:
         deploy_spacedock(

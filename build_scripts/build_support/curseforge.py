@@ -1,6 +1,7 @@
 import requests
 from contextlib import closing
-
+from requests_toolbelt.multipart.encoder import MultipartEncoder
+import json
 
 class CurseForgeAPI(object):
 
@@ -29,11 +30,10 @@ class CurseForgeAPI(object):
         headers = {'X-Api-Token': self.auth_token}
         with closing(self.session.get(url, headers=headers)) as resp:
             try:
-                print(resp.url)
-                print(resp.text)
-                return resp
+                return resp.json()
             except requests.exceptions.HTTPError as err:
                 print(err)
+                print(f"{resp.url} returned {resp.text}")
                 return resp.text
 
     def get_curse_game_version_id(self, game_version):
@@ -51,6 +51,7 @@ class CurseForgeAPI(object):
         for version in versions:
             if version["name"] == game_version:
                 curse_version = version["id"]
+                print(f"Found curse version {curse_version} from string version {game_version}")
 
         if curse_version is None:
             raise Exception(f"Couldn't determine curse version from game version {game_version}")
@@ -68,18 +69,25 @@ class CurseForgeAPI(object):
             releaseType (str): One of alpha, beta, release
             zip (str): the path of the zip to upload
         """
-        curse_version = self.get_curse_game_version_id(game_version)
+        curse_version = int(self.get_curse_game_version_id(game_version))
         url = f'{self.base_url}/{self.upload_file_url}'.format(mod_id=mod_id)
         metadata = {
             "changelog": changelog,
             "changelogType": "markdown",
-            "gameversions": [curse_version],
+            "gameVersions": [curse_version],
             "releaseType": releaseType
         }
+        print(f"File metadata {metadata}, zip {zip}")
         headers = {'X-Api-Token': self.auth_token}
         print(f"posting {metadata} to {url}")
-        files = {'file': open(zip, 'rb'), 'metadata'=metadata}
-        with closing(self.session.post(url, headers=headers, files=files)) as resp:
+        try:
+            resp = self.session.post(url, files={'file': open(zip, 'rb')}, data={'metadata': json.dumps(metadata)}, headers=headers)
+            resp.raise_for_status()
+            print(f"{resp.url} returned {resp.text}")
+            return resp.text
+        except requests.exceptions.HTTPError as err:
+            print(f"HTTP ERROR: {err}")
+            print(f"{resp.url} returned {resp.text}")
             return resp.text
 
     def login(self):

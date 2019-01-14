@@ -1,7 +1,7 @@
 # Class for accessing the SpaceDock API
 import requests
 from contextlib import closing
-
+from requests_toolbelt.multipart.encoder import MultipartEncoder
 
 class SpaceDockAPI(object):
 
@@ -63,18 +63,19 @@ class SpaceDockAPI(object):
             "version": version,
             "changelog": changelog,
             "game-version": game_version,
-            "notify-followers": "yes" if True else "no",
-            "zipball": zip
+            "notify-followers": "yes" if True else "no"
         }
         print(f"> Posting {payload} to {url}")
 
-        with closing(self.session.post(url, data=payload)) as resp:
-            try:
-                resp.raise_for_status()
-                return resp.text
-            except requests.exceptions.HTTPError as err:
-                print(err)
-                return resp.text
+        try:
+            resp = self.session.post(url, data=payload, files={'zipball': open(zip, 'rb')})
+            resp.raise_for_status()
+            print(f"{resp.url} returned {resp.text}")
+            return resp.text
+        except requests.exceptions.HTTPError as err:
+            print(f"HTTP ERROR: {err}")
+            print(f"{resp.url} returned {resp.text}")
+            return resp.text
 
 
     def login(self):
