@@ -58,7 +58,7 @@ class SpaceDockAPI(object):
             zip (str): the path of the zip to upload
 
         """
-        url = f'{self.base_url}/{self.query_mod_url}'
+        url = f'{self.base_url}/{self.update_mod_url}'.format(mod_id=mod_id)
         payload = {
             "version": version,
             "changelog": changelog,
@@ -68,13 +68,13 @@ class SpaceDockAPI(object):
         }
         print(f"> Posting {payload} to {url}")
 
-        #with closing(self.session.post(url, data=payload)) as resp:
-        #    try:
-        #        resp.raise_for_status()
-    #            return resp.text
-#            except requests.exceptions.HTTPError as err:
-#                print(err)
-#                return resp.text
+        with closing(self.session.post(url, data=payload)) as resp:
+            try:
+                resp.raise_for_status()
+                return resp.text
+            except requests.exceptions.HTTPError as err:
+                print(err)
+                return resp.text
 
 
     def login(self):
@@ -82,6 +82,8 @@ class SpaceDockAPI(object):
             if resp.reason == 'OK':
                 print('"Successfully logged in"')
                 return self.session
+            else:
+                print(resp.text)
 
     def logout(self):
         pass

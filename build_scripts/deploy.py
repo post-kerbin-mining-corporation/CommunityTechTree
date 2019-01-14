@@ -38,7 +38,7 @@ def deploy(spacedock, curse):
     if curse:
         deploy_curseforge(
             get_ksp_version(version_data),
-            build_data['spacedock']['mod-id'],
+            build_data['curseforge']['mod-id'],
             changelog,
             zipfile)
 

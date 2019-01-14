@@ -69,16 +69,18 @@ class CurseForgeAPI(object):
             zip (str): the path of the zip to upload
         """
         curse_version = self.get_curse_game_version_id(game_version)
-        url = f'{self.base_url}/{self.upload_file_url}'
+        url = f'{self.base_url}/{self.upload_file_url}'.format(mod_id=mod_id)
         metadata = {
             "changelog": changelog,
             "changelogType": "markdown",
             "gameversions": [curse_version],
             "releaseType": releaseType
         }
+        headers = {'X-Api-Token': self.auth_token}
         print(f"posting {metadata} to {url}")
-        #with closing(self.session.post(url, data=payload)) as resp:
-    #        return resp.text
+        files = {'file': open(zip, 'rb'), 'metadata'=metadata}
+        with closing(self.session.post(url, headers=headers, files=files)) as resp:
+            return resp.text
 
     def login(self):
         """Unneeded"""

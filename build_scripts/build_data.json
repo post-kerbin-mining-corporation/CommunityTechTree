@@ -1,6 +1,15 @@
 {
-  "mod_name": "DynamicBatteryStorage",
+  "mod_name": "CommunityTechTree",
   "dependencies":
   {
+  },
+  "spacedock":
+  {
+    "mod-id": 534
+  },
+  "curseforge":
+  {
+    "mod-id": "community-tech-tree"
   }
+
 }
