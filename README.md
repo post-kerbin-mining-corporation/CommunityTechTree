@@ -32,6 +32,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Simplified:** Chinese (Iso-Polaris and EthanWang706)
 * **Italian:** (KSP forum user Simog)
 * **German:** (KSP forum user Three_Pounds)
+* **Aodh4n** (Aodh4n)
 
 ## Licensing
 
