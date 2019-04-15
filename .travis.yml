@@ -2,7 +2,7 @@ language: python
 python:
   - 3.6
 install:
-  - pip install awscli boto3 requests
+  - pip install awscli boto3 requests requests_toolbelt
 branches:
   only:
     - master
