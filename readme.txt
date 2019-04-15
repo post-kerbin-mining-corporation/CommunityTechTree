@@ -34,6 +34,7 @@ This mod includes localization support, and includes translations for
 - Simplified Chinese (Iso-Polaris and EthanWang706)
 - Italian (KSP forum user Simog)
 - German (KSP forum user Three_Pounds)
+- French (Aodh4n)
 
 Please note that translations are community-sourced and that I don't actually speak anything but French and English, so can't really verify these. If there are issues, please contact the author of the translation.
 
