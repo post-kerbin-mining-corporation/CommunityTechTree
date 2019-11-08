@@ -1,5 +1,5 @@
 ==========================
-COMMUNITY TECH TREE v3.3.7
+COMMUNITY TECH TREE v3.4.0
 ==========================
 
 This is a community designed tech tree designed to support as many mods as possible and extend the KSP tech tree without affecting the stock tree.
