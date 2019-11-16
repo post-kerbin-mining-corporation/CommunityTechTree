@@ -1,5 +1,5 @@
 # The Kerbal Space Program Community Tech Tree
-### Last Release January 21, 2019
+### Last Release October 21, 2019
 
 This is a community-sourced tech tree designed to support as many mods as possible and extend the KSP technology experience without affecting the way stock is laid out.
 
