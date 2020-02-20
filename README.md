@@ -1,5 +1,5 @@
 # The Kerbal Space Program Community Tech Tree
-### Last Release October 21, 2019
+### Last Release January 20, 2020
 
 This is a community-sourced tech tree designed to support as many mods as possible and extend the KSP technology experience without affecting the way stock is laid out.
 
@@ -29,7 +29,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **German**: Three_Pounds
 * **Spanish:** (KSP forum user fitiales)
 * **Russian:** (KSP forum user vladmir_v)
-* **Simplified:** Chinese (Iso-Polaris and EthanWang706)
+* **Simplified Chinese:** (Iso-Polaris, EthanWang706,  WC12366 )
 * **Italian:** (KSP forum user Simog)
 * **German:** (KSP forum user Three_Pounds)
 * **Aodh4n** (Aodh4n)
