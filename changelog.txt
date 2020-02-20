@@ -1,3 +1,9 @@
+
+3.4.1
+-----
+- KSP 1.9
+- Updates to Chinese localization by WC12366 
+
 3.4.0
 ------
 - KSP 1.8.x
