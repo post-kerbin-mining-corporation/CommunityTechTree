@@ -9,7 +9,7 @@
     "abstract" : "Community-developed tech tree extension, with support for many mods.",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/90530-16x-community-tech-tree-january-21/",
-      "repository": "https://github.com/ChrisAdderley/CommunityTechTree"
+      "repository": "https://github.com/post-kerbin-mining-corporation/CommunityTechTree"
     },
     "x_netkan_epoch" : "1",
     "depends" : [
