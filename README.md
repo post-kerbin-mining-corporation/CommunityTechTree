@@ -5,7 +5,7 @@ This is a community-sourced tech tree designed to support as many mods as possib
 
 ![Tree](http://i.imgur.com/XCkHCrs.png)
 
-This mod is not a rebalance or a restructure, and does not affect the positions of items in the tree. It is the responsibility of the modder to add their parts to the appropriate part of the tree. Check out the [For Modders](https://github.com/ChrisAdderley/CommunityTechTree/blob/master/ForModders.md) file for more information.
+This mod is not a rebalance or a restructure, and does not affect the positions of items in the tree. It is the responsibility of the modder to add their parts to the appropriate part of the tree. Check out the [For Modders](https://github.com/post-kerbin-mining-corporation/CommunityTechTree/blob/master/ForModders.md) file for more information.
 
 Please see the KSP [Forums thread](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-131-community-tech-tree-july-26th-new-techs/) for more information.
 
@@ -24,7 +24,7 @@ This mod is only a tech tree! It requires an appropriate version of ModuleManage
 
 ## Translations
 
-For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/CommunityTechTree/blob/master/GameData/CommunityTechTree/Localization/Localization.md)
+For translation instructions please see [Localization Instructions](https://github.com/post-kerbin-mining-corporation/CommunityTechTree/blob/master/GameData/CommunityTechTree/Localization/Localization.md)
 
 * **German**: Three_Pounds
 * **Spanish:** (KSP forum user fitiales)
