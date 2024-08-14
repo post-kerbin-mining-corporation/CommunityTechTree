@@ -2,6 +2,7 @@
 -----
 - Versioning update
 - Fixed a long standing issue that caused the longTermScienceTech node to have an incorrect icon
+- Added Portugese translation (gui8515)
 
 3.4.4
 -----
