@@ -1,3 +1,9 @@
+3.4.5
+-----
+- Versioning update
+- Fixed a long standing issue that caused the longTermScienceTech node to have an incorrect icon
+- Added Portugese translation (gui8515)
+
 3.4.4
 -----
 - KSP 1.12

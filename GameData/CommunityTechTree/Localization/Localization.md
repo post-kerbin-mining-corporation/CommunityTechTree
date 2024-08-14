@@ -13,7 +13,7 @@ them accordingly to your language:
 
 *Again:*
 * *es-es* for Spanish
-* *es-mxg* for Mexican Spanish
+* *es-mx* for Mexican Spanish
 * *ja* for Japanese
 * *ru* for Russian
 * *zh-cn* for Simplified Chinese
