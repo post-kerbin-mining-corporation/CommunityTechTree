@@ -33,6 +33,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **German:** (KSP forum user Three_Pounds)
 * **French** (Aodh4n)
 * **Portugese** (gui8515)
+* **Japanese** (Mikeore)
 
 ## Licensing
 
